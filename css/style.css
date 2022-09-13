@@ -47,3 +47,47 @@ button{
     color: lightgrey;
     border: 2px solid lightgrey;
 }
+#tasks{
+    margin-top: 10px;
+    padding-left: 70px;
+    padding-top: 30px;
+}
+.contained{
+    font-size: 20px;
+}
+.circle{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 10px;  
+    display: inline-block;
+    padding-bottom: 13px;
+}
+#check{
+    color: #64C0A9;
+    border-color: #64C0A9;
+}
+#cross{
+    color: red;
+    border-color: red;
+}
+h3{
+    display: inline-block;
+    vertical-align: top;
+}
+.type{
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 6px;
+    color: white;
+}
+.editorial{
+    background-color: #45ABEA;
+}
