@@ -68,7 +68,7 @@ button{
     text-align: center;
     font-size: 10px;  
     display: inline-block;
-    padding-bottom: 13px;
+    
 }
 #check{
     color: #64C0A9;
@@ -78,9 +78,10 @@ button{
     color: red;
     border-color: red;
 }
-h3{
+span{
     display: inline-block;
-    vertical-align: top;
+    line-height: 20px;
+    font-weight: bold;
 }
 .type{
     width: 80px;
